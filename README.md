@@ -1,119 +1,150 @@
 # 👋 Hi, I'm Samia Tasnim
 
-I'm a passionate developer, data scientist, and researcher from Bangladesh, committed to using technology and data to solve real-world problems. With a strong foundation in programming, data visualization, and community engagement, I bring a unique blend of technical expertise and creative problem-solving to every project.
+I'm a passionate developer, data analyst, and researcher from Bangladesh, driven to use technology, storytelling, and empirical insight to address pressing global and local challenges. My work spans GPS data analytics, AI fundamentals, economic research, and community-driven visualizations.
 
 ---
 
 ## 🧠 About Me
 
-I am Samia Tasnim, a motivated innovator committed to leveraging technology and data to tackle real-world challenges. With experience in programming, data visualization, research, and community engagement, I excel at creating insightful solutions and fostering collaboration. From designing impactful graphics to managing events and analyzing complex systems, I bring a unique combination of technical expertise and creative problem-solving to every project, with the goal of empowering communities and driving meaningful progress.
+I bring together skills in programming, data visualization, graphic design, and public policy research to create tools and narratives that drive real-world change. Whether it's decoding GPS route data or visualizing national policy trends, my goal is to foster accessibility, impact, and innovation through digital solutions.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛰️ GPS Tracker & Route Analyzer
-A Python-based simulation and analysis tool for GPS tracking data. It simulates walking or cycling routes, analyzes movement patterns, and visualizes the journey with interactive maps and charts.
+### 🛰️ GPS Tracker & Route Analyzer  
+🔗 [View Repository](https://github.com/samiatasnim128/GPS-Tracker-and-Route-Analyzer)
 
-**Key Features:**
-- Simulated GPS data with elevation
-- Distance, speed, and stop detection
-- Route visualization using Folium & Plotly
-- Energy burned estimation
-- Bonus: Real-time tracking, weather integration, and ML-based activity classification
+A Python-based simulation and analysis tool for tracking walking and cycling routes, visualizing user behavior through data.
 
-🔗 View Project Repository
-
-### 📊 Data Science & Machine Learning Projects
-A collection of projects applying ML algorithms and data visualization to real-world datasets.
-
-🔗 [View Data Science Projects](https Geospatial Analysis
-Projects focused on mapping, spatial statistics, and GIS-based insights.
-
-🔗 [View Geospatial Projects](https://github.com/samiatasnim*Associate – Economic Policy Network**, Youth Policy Forum  
-  *July 2023 – September 2024, Dhaka, Bangladesh*
-
-- **Associate – Economics Study Center (ESC)**, University of Dhaka  
-  *June 2022 – June 2024, Dhaka, Bangladesh*
+**Highlights:**
+- Simulates and analyzes real or synthetic GPS data
+- Detects pauses, estimates energy burned
+- Interactive maps with elevation and geospatial plotting (Folium & Plotly)
+- Optional integration of weather data and ML-based activity detection
 
 ---
 
-## 📚 Research & Publications
+### 📍 Bangladesh Economic Dashboard (Prototype)  
+🔗 [View Repository](https://github.com/samiatasnim128/Bangladesh-Economic-Dashboard)
+
+An interactive economic dashboard built to visualize real-world indicators and policy metrics for Bangladesh.
+
+**Tech Used:** Python, Streamlit, pandas, Plotly  
+**Features:** Trend plots, policy tags, GDP, inflation, and social metrics by year
+
+---
+
+### 📊 Data Science & ML Toolkit  
+🔗 [View Repository](https://github.com/samiatasnim128/Data-Science-and-ML-Toolkit)
+
+Contains end-to-end examples of classification, regression, clustering, and visualization pipelines using scikit-learn, pandas, and matplotlib.
+
+---
+
+### 🌍 Climate Change Visual Narratives  
+🔗 [View Repository](https://github.com/samiatasnim128/Climate-Change-Visualizations)
+
+Data visualizations on climate change impact using animated charts and mapped projections.
+
+---
+
+## 🧾 Publications & Research
 
 - **“Sri Lanka's Economic Crisis: Challenges and Lessons for Bangladesh”**  
-  Published in *Diplomatic* by the International Institute for Law and Diplomacy (2022)
+  Published in *Diplomatic*, International Institute for Law and Diplomacy (2022)  
+  [Read More](https://iildbd.org/)
 
 ---
 
-## 🏆 Notable Achievements & Activities
+## 🏆 Notable Achievements
 
-### 🥇 English Olympiad Bangladesh – Divisional Champion (2017)
-Demonstrated exceptional command over the English language, showcasing critical thinking and communication skills.
-
-### 🧬 Bangladesh Biology Olympiad – Regional Champion (2019)
-Excelled in biological sciences and analytical reasoning in a competitive academic setting.
-
-### 🖥️ Notre Dame Annual Science Festival – Web Page Design (2018)
-Secured 2nd Runner-up in a senior-level web design competition, highlighting creativity and UI/UX skills.
-
-### 🏆 Information Technology Olympiad – Group Champion (2018)
-Contributed to a team victory in a national IT competition, showcasing technical and collaborative strengths.
-
-### 🖌️ Adobe Illustrator & Photoshop Session – 1st Place (2022)
-Recognized for outstanding design skills in a hands-on creative session hosted by the Economics Career Alliance.
-
-### 📊 Data Visualization Competition – Winner (2024)
-Awarded for creating compelling visual narratives from complex data at the Bangladesh Economics Summit.
-
-### 🎓 Talentpool Scholarship – Ministry of Education (2016)
-Received a national scholarship for academic excellence and early promise.
+- 🥇 **English Olympiad Bangladesh** – Divisional Champion (2017)  
+- 🧬 **Biology Olympiad** – Regional Champion (2019)  
+- 🎨 **Adobe Illustrator/Photoshop Design Challenge** – 1st Place (2022)  
+- 💻 **Web Design Competition** – 2nd Runner-Up, Notre Dame Science Festival (2018)  
+- 🏆 **Information Technology Olympiad** – Group Champion (2018)  
+- 📈 **Data Visualization Winner** – Bangladesh Economics Summit (2024)  
+- 🎓 **Talentpool Scholarship** – Ministry of Education (2016)
 
 ---
 
-## 🎓 Certifications & Training
+## 🏛 Professional Experience
 
-- Data Science & Analytics – HP Foundation  
-- AI Fundamentals – IBM SkillsBuild  
-- Intro to Data Science – Simplilearn  
-- Cybersecurity Awareness – HP Foundation  
-- Digital Security & Human Rights – Amnesty International  
-- OOP in Python – Udemy  
-- WordPress Design & Management – Youth Policy Forum  
-- DATALYTICS 2022 – Bangladesh University of Professionals
+### 📊 Associate – Economic Policy Network  
+**Youth Policy Forum** | Jul 2023 – Sep 2024  
+- Policy briefs, data storytelling, and civic engagement programs
 
----
-
-## 🤝 Volunteering
-
-- Social Worker – Physically-challenged Development Foundation (PDF)  
-- Participant – Youth Volunteering Training Program, Hemophilia Society of Bangladesh
+### 📈 Associate – Economics Study Center  
+**University of Dhaka** | Jun 2022 – Jun 2024  
+- Event planning, policy writing, and visualization competitions
 
 ---
 
-## 🛠️ Skills
+## 🎓 Certifications
 
-- **Languages:** Python, C++, C  
-- **Libraries & Tools:** Pandas, NumPy, Plotly, Folium, Scikit-learn, Streamlit  
-- **Design:** Adobe Photoshop, Illustrator, XD, InDesign, Canva  
-- **Cloud & Office:** Microsoft Azure, O365, Word, Excel, PowerPoint, Access
-
----
-
-## 🌐 Languages
-
-- Bengali (Native)  
-- English (C1 – Advanced)  
-- German (A1–A2 – Basic)
+- 📊 *Data Science & Analytics* – HP Foundation  
+- 🤖 *AI Fundamentals* – IBM SkillsBuild  
+- 📈 *Intro to Data Science* – Simplilearn  
+- 🔐 *Cybersecurity Awareness* – HP Foundation  
+- 🛡 *Digital Security & Human Rights* – Amnesty International  
+- 💻 *OOP in Python* – Udemy  
+- 🌐 *WordPress Design & Management* – Youth Policy Forum  
+- 🧠 *DATALYTICS 2022* – Bangladesh University of Professionals
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Volunteering & Community Engagement
 
-!Samia's GitHub stats  
-!Top Languages  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiatasnim samiatasnim128@gmail.com  
-- 🌐 Portfolio: *Coming Soon!*
+- 👥 *Physically-Challenged Development Foundation (PDF)* – Social Worker  
+- ❤️ *Youth Volunteer Training (Hemophilia Society)* – Participant
 
 ---
 
-_Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about data, research, or tech ideas._
+## 🛠️ Technical Proficiency
+
+**Languages:**  
+Python, C++, C  
+
+**Libraries & Frameworks:**  
+Pandas, NumPy, Folium, Plotly, matplotlib, Scikit-learn, Streamlit  
+
+**Design & Visualization:**  
+Adobe Photoshop, Illustrator, XD, InDesign, Canva, Tableau, Excel  
+
+**Cloud & Productivity:**  
+Microsoft Azure, Microsoft 365, Word, Excel, PowerPoint, Access  
+
+---
+
+## 🌍 Languages
+
+- 🇧🇩 Bengali – Native  
+- 🇬🇧 English – C1 (Advanced)  
+- 🇩🇪 German – A1–A2 (Basic)
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samiatasnim128&show_icons=true&theme=default&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiatasnim128&layout=compact&theme=default&hide_border=false" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiatasnim128&theme=default&hide_border=false" width="70%" />
+</p>
+
+---
+
+## 📬 Contact & Links
+
+- 📧 Email: [samiatasnim128@gmail.com](mailto:samiatasnim128@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/samia-tasnim-45b10023a](https://www.linkedin.com/in/samia-tasnim-45b10023a/)  
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+_Thank you for visiting my profile! Feel free to explore my repositories and connect with me to discuss data, research, or impactful tech ideas._
+
