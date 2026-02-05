@@ -3,8 +3,8 @@
 Building web apps, data-driven dashboards, and simulation projects with Python + modern JavaScript/TypeScript.
 
 - 🎓 **B.Sc in Computer Science Engineering**, Pécsi Tudományegyetem (2025–Present)  
-  Focus: Data Science, Computational Engineering, Software Engineering
-- 🎓 **B.S.S. in Economics**, University of Dhaka (2021–2025) — GPA: 3.25/4  
+  Focus: Data Science, Computational Engineering, Software Engineering- GPA 4.7/5
+- 🎓 **B.S.S. in Economics**, University of Dhaka (2021–2025) — GPA: 3.4/4  
   Specialization: Computational Econometrics & Dynamic Optimization  
   Research interest: Neural networks in economics
 - 💡 I enjoy working on **dashboards**, **simulation systems**, **geospatial tools**, and **developer-friendly UI/UX**.
