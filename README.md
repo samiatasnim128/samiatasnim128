@@ -63,7 +63,6 @@ Building web apps, data-driven dashboards, and simulation projects with **Python
 ## Languages
 - English (C2)  
 - German (A2)  
-- Hungarian (A1)  
 
 ---
 
