@@ -1,8 +1,8 @@
 # Samia Tasnim 👋
-**Software Developer | CSE Undergraduate (B.Sc.) — Munich, Germany**  
+**Software Developer | CSE Undergraduate (B.Sc.)
 Building web apps, data-driven dashboards, and simulation projects with **Python** and modern **JavaScript/TypeScript**.
 
-- 🎓 **B.Sc. in Computer Science Engineering (ongoing)** — Pécsi Tudományegyetem (2025–Present) — **GPA: 4.7/5**  
+- 🎓 **B.Sc. in Computer Science Engineering (ongoing)** — Pécsi Tudományegyetem (2025–Present) — **GPA: 4.5/5**  
   Focus: Data Science, Computational Engineering, Software Engineering
 - 🎓 **B.S.S. in Economics** — University of Dhaka (2021–2025) — **GPA: 3.4/4**  
   Specialization: Computational Econometrics & Dynamic Optimization  
