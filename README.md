@@ -55,13 +55,13 @@ Building web apps, data-driven dashboards, and simulation projects with **Python
 ---
 
 ## Awards
-- **Stipendium Hungaricum Nominee** — Tempus Public Foundation  
+- **Stipendium Hungaricum** — Tempus Public Foundation  
 - **National Merit Scholarship** — Bangladesh Government (multiple years)  
 
 ---
 
 ## Languages
-- English (C2)  
+- English (C1)  
 - German (A2)  
 
 ---
